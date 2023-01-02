@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "896659458440",
+    "project_id": "davcollegeapp21",
+    "storage_bucket": "davcollegeapp21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896659458440:android:8c2383c9f7288f2a14923d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896659458440-bal40a9dd7vbf6485ofk4qr2ioi9jl62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_10",
+            "certificate_hash": "efb723c125e6896ad4da590ab96d19fcf878a8ca"
+          }
+        },
+        {
+          "client_id": "896659458440-40idmpfe4um8uvrq3a8lcp8if1pt12uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHlfsZ3ziAOFWK_bFgYHiKY4WBpXqgRX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896659458440-40idmpfe4um8uvrq3a8lcp8if1pt12uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
